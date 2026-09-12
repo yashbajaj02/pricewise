@@ -1,21 +1,40 @@
-# PriceWise 🚀
+# PriceWise — Product Price Comparison
 
-PriceWise is a web-based price comparison application built using React and modern web technologies.
+PriceWise is a web-based price comparison project focused on helping users discover products, compare indicative prices across e-commerce platforms, and continue to the original seller.
 
-## 🔍 What PriceWise Does
-- Allows users to search for any product
-- Compares prices across multiple e-commerce platforms
-- Shows availability and redirects users to the original seller
-- Focuses on simplicity, speed, and trust
+## ✨ What It Does
 
-## 🛠 Tech Stack
-- Frontend: React, Tailwind CSS
-- Backend (planned): Node.js, Express
-- Data Sources: Affiliate APIs & partner feeds
+- Search for products
+- Compare prices from multiple sources
+- Check product availability
+- Redirect to the original seller
+- Keep the experience simple and focused on price discovery
 
-## ⚠️ Disclaimer
-Prices shown are indicative and may vary on seller platforms.  
-PriceWise redirects users to third-party platforms for purchases and does not sell products directly.
+## 🛠️ Tech Stack
+
+- React
+- Tailwind CSS
+- JavaScript / modern web technologies
+- Planned integrations: Node.js, Express, affiliate APIs and partner feeds
 
 ## 🚧 Project Status
-Currently under active development. Features and integrations will be expanded in future versions.
+
+PriceWise is under active development. Backend integrations and additional comparison sources are planned for future versions.
+
+## ⚠️ Disclaimer
+
+Prices and availability are indicative and may change on the seller's platform. PriceWise does not sell products directly and redirects users to third-party sellers.
+
+## 🎯 Future Plans
+
+- More product data sources
+- Better price comparison
+- Product availability tracking
+- Improved search and filtering
+- Backend/API integrations
+
+## 👨‍💻 Author
+
+**Yash Bajaj**
+
+B.Tech CSE (AI) student building projects across full-stack development and AI/ML.
